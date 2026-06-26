@@ -1,0 +1,18 @@
+{
+  "responsables": [
+    {
+      "id": "r1",
+      "nome": "Vilar",
+      "cargo": "Gerente de Inovação e Projetos",
+      "area": "Inovação",
+      "email": "vilar@empresa.com",
+      "telefone": ""
+    }
+  ],
+  "projetos": [],
+  "demandas": [],
+  "atividades": [],
+  "comentarios": [],
+  "anexos": [],
+  "historico": []
+}
